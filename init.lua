@@ -35,7 +35,6 @@ require("lazy").setup({
 	require("vio.lazy-plugins.gitsigns"),
 	require("vio.lazy-plugins.lazydev"),
 	require("vio.lazy-plugins.lsp"),
-	require("vio.lazy-plugins.mason-workaround"),
 	require("vio.lazy-plugins.which-key"),
 	require("vio.lazy-plugins.misc"),
 }, {
