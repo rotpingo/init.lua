@@ -51,7 +51,7 @@ vim.opt.scrolloff = 6
 vim.o.sidescrolloff = 8 -- minimal number of screen columns either side of cursor if wrap is `false`
 
 --Set highlight on search
-vim.opt.hlsearch = false 
+vim.opt.hlsearch = false
 
 --Creates a backup file
 vim.o.backup = false
