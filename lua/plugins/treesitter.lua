@@ -8,8 +8,8 @@ return {
 		ensure_installed = {
 			"bash",
 			"diff",
-			"html",
 			"lua",
+			"html",
 			"markdown",
 			"markdown_inline",
 			"query",

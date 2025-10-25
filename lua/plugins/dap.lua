@@ -4,6 +4,7 @@ return {
 		lazy = false,
 		config = function()
 			local dap = require("dap")
+
 			dap.set_log_level("DEBUG")
 
 			vim.keymap.set("n", "<F8>", dap.continue, { desc = "Debug: Continue" })
